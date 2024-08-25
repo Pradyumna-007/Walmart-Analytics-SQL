@@ -12,5 +12,7 @@ Comprised of variables like Invoice ID, Branch, City, Customer, Type, Gender, Pr
 
 HIGHLIGHTS OF THE ANALYSIS
 1. Analysis on the data understands the different product lines, the products lines performing best and the product lines that need to be improved.
+
 2.This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
+
 3.This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
